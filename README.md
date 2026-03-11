@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="Niurka Guevara - Full Stack Developer" src="./assets/oh hi there.png" width="300"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Niurka%20Guevara&fontSize=40&fontColor=ffffff"/>
 </div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Niurka Maritza Guevara Marrujo</h1>
 
