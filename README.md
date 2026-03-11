@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,aws" />
+</p>
 <div align="center" width="50">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Niurka%20Guevara&fontSize=40&fontColor=ffffff"/>
 </div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Niurka Maritza Guevara Marrujo</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+learning+new+things&center=true&width=500&height=50)
 
 ![GitHub followers](https://img.shields.io/github/followers/niurka77?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/niurka77?style=social)
@@ -14,10 +18,39 @@
 - 🏢 Fui **Desarrolladora de Software Full Stack** en T&F Asesoría y Consultoría Inmobiliaria E.I.R.L.
 - 🎓 **Profesional Técnica Titulada a Nombre de la Nación**. Graduada con honores como **Becaria de Beca 18 (PRONABEC)**.
 - 🏡 Vivo en **Chiclayo, Perú**
-- ⚡ **Datos Curiosos** : Me apasiona la tecnología, la enseñanza de idiomas y la implementación de soluciones digitales innovadoras. 🍕 🏉 🏏 🎥 🚞
+- ⚡ **Datos curiosos:**  
+- Amo aprender nuevas tecnologías.
+- Me gusta enseñar idiomas.
+- Disfruto crear soluciones digitales que ayuden a las personas.
+- Implementación de soluciones técnologicas
 
 <br>
+## 🚀 Proyectos Destacados
 
+🔹 **Aplicación de Gestión para Asesores e Inversionistas**  
+Sistema móvil desarrollado con **HTML, CSS, JavaScript y Capacitor** que permite:
+
+- Registro de asistencia con geolocalización
+- Control de ventas
+- Cálculo automático de comisiones
+- Panel para inversionistas
+
+🔹 **Carta Romántica Digital Interactiva**
+Proyecto web interactivo que incluye:
+
+- Animaciones
+- Puzzle de corazón
+- Galería de recuerdos
+- Música y efectos visuales
+
+🔹 **Videojuego 2D Pixel Art**
+Juego protagonizado por una vaquita desarrollado con **JavaScript y HTML Canvas**.
+## 📚 Actualmente Aprendiendo
+
+- Inteligencia Artificial aplicada al desarrollo
+- Arquitectura de software
+- Desarrollo de aplicaciones móviles
+- Cloud Computing
 ## Conéctate conmigo ☕ :
 
 <br>
@@ -55,6 +88,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niurka77&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Niurka77 GitHub stats](https://github-readme-stats.vercel.app/api?username=niurka77&theme=algolia)](https://github.com/niurka77/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niurka77&theme=algolia)](https://github.com/niurka77/github-readme-stats)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niurka77&theme=github_dark)
 
 <br>
 
@@ -71,7 +105,11 @@
 <br>
 
 [![Actividad de Niurka](https://github-readme-activity-graph.vercel.app/graph?username=niurka77&bg_color=000&color=fff&line=00E676&point=fff&area=true&hide_border=true)](https://github.com/niurka77/github-readme-activity-graph)
+---
 
+✨ **“La tecnología es más poderosa cuando ayuda a las personas.”**
+
+Hecho con ❤️ por **Niurka Guevara**
 ---
 
 Créditos: [Niurka Guevara](https://github.com/niurka77)
