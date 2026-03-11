@@ -1,67 +1,79 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="Niurka Guevara - Full Stack Developer" src="./assets/oh hi there.png" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Niurka Maritza Guevara Marrujo</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+![GitHub followers](https://img.shields.io/github/followers/niurka77?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/niurka77?style=social)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=niurka77.niurka77)
+<img src="https://komarev.com/ghpvc/?username=niurka77" alt="niurka77" />
 
-## About Me :
+## Sobre Mí :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
-<br>
-
-## Connect with me ☕ :
+- 🏢 Soy **Egresada de la carrera de Ingeniería de Software con IA** en [SENATI](https://www.senati.edu.pe/)
+- 🏢 Fui **Desarrolladora de Software Full Stack** en T&F Asesoría y Consultoría Inmobiliaria E.I.R.L.
+- 🎓 **Profesional Técnica Titulada a Nombre de la Nación**. Graduada con honores como **Becaria de Beca 18 (PRONABEC)**.
+- 🏡 Vivo en **Chiclayo, Perú**
+- ⚡ **Datos Curiosos** : Me apasiona la tecnología, la enseñanza de idiomas y la implementación de soluciones digitales innovadoras. 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+## Conéctate conmigo ☕ :
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+[![@niurka77](https://img.icons8.com/fluency/48/000000/instagram-new.png "@niurka77")](https://www.instagram.com/tu_usuario_ig/) <!-- Reemplaza con tu URL de Instagram -->
+[![@NiurkaGuevara](https://img.icons8.com/fluency/48/000000/facebook.png "@NiurkaGuevara")](https://www.facebook.com/tu_usuario_fb) <!-- Reemplaza con tu URL de Facebook -->
+[![@niurka-guevara](https://img.icons8.com/fluency/48/000000/linkedin.png "@niurka-guevara")](https://www.linkedin.com/in/niurka-guevara-75b8a2353/) <!-- Reemplaza con tu URL de LinkedIn -->
+[![@906877812](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@906877812")](tel:906877812)
+[![@maritzaguevaramarrujo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@maritzaguevaramarrujo@gmail.com")](mailto:maritzaguevaramarrujo@gmail.com)
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+## Lo que manejo 🧑‍💻 :
 
 <br>
 
-## GitHub Stats 📈 :
+### **Desarrollo Frontend:**
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript (ES6+)"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS"/>
+
+### **Desarrollo Backend:**
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
+
+### **Bases de Datos & Cloud:**
+<img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase (NoSQL)"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" title="Azure"/>
+
+### **Infraestructura, Herramientas y Metodologías:**
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux (Red Hat)"/> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/fluency/48/000000/github.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="NPM"/>
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+## Estadísticas de GitHub 📈 :
 
 <br>
 
-## GitHub Thropies 🏆 :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niurka77&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Niurka77 GitHub stats](https://github-readme-stats.vercel.app/api?username=niurka77&theme=algolia)](https://github.com/niurka77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niurka77&theme=algolia)](https://github.com/niurka77/github-readme-stats)
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+## Logros en GitHub 🏆 :
 
 <br>
 
-## Activity Graph 📊 :
+[![trophy](https://github-profile-trophy.vercel.app/?username=niurka77&theme=algolia)](https://github.com/niurka77/github-profile-trophy)
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Gráfico de Actividad 📊 :
+
+<br>
+
+[![Actividad de Niurka](https://github-readme-activity-graph.vercel.app/graph?username=niurka77&bg_color=000&color=fff&line=00E676&point=fff&area=true&hide_border=true)](https://github.com/niurka77/github-readme-activity-graph)
 
 ---
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+Créditos: [Niurka Guevara](https://github.com/niurka77)
 
-Last edited on: 30/06/2022
+Última edición: 11/03/2026
