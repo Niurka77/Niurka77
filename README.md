@@ -5,7 +5,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Niurka%20Guevara&fontSize=40&fontColor=ffffff"/>
 </div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Niurka Maritza Guevara Marrujo</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+learning+new+things&center=true&width=500&height=50)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/niurka77?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/niurka77?style=social)
