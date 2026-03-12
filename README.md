@@ -43,9 +43,9 @@ Proyecto web interactivo que incluye:
 - Galería de recuerdos
 - Música y efectos visuales
 
-🔹 **Videojuego 2D Pixel Art**
-Juego protagonizado por una vaquita desarrollado con **JavaScript y HTML Canvas**.
-## 📚 Actualmente Aprendiendo
+🔹 **Videojuego 3D Interactivo**
+Explora un mundo digital con sistema de misiones y entrenamiento. Desarrollado con JavaScript y renderizado en web.
+- **¡Pruébalo aquí!:** [niurka77.github.io/roblox/](https://niurka77.github.io/roblox/)
 
 - Inteligencia Artificial aplicada al desarrollo
 - Arquitectura de software
