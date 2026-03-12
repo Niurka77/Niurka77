@@ -92,14 +92,6 @@ Juego protagonizado por una vaquita desarrollado con **JavaScript y HTML Canvas*
 
 <br>
 
-## Logros en GitHub 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=niurka77&theme=algolia)](https://github.com/niurka77/github-profile-trophy)
-
-<br>
-
 ## Gráfico de Actividad 📊 :
 
 <br>
