@@ -46,6 +46,13 @@ Proyecto web interactivo que incluye:
 🔹 **Videojuego 3D Interactivo**
 Explora un mundo digital con sistema de misiones y entrenamiento. Desarrollado con JavaScript y renderizado en web.
 - **¡Pruébalo aquí!:** [niurka77.github.io/roblox/](https://niurka77.github.io/roblox/)
+  <p align="center">
+  <a href="https://niurka77.github.io/roblox/">
+    <img src="https://raw.githubusercontent.com/niurka77/roblox/main/juego.png" width="600" alt="Captura de mi juego">
+  </a>
+  <br>
+  <em>Click en la imagen para jugar mi proyecto 3D</em>
+</p>
 
 - Inteligencia Artificial aplicada al desarrollo
 - Arquitectura de software
