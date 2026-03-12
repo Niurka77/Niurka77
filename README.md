@@ -107,9 +107,10 @@ Juego protagonizado por una vaquita desarrollado con **JavaScript y HTML Canvas*
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niurka77&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Niurka77 GitHub stats](https://github-readme-stats.vercel.app/api?username=niurka77&theme=algolia)](https://github.com/niurka77/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niurka77&theme=algolia)](https://github.com/niurka77/github-readme-stats)
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niurka77&theme=github_dark)
+
+[![Niurka77 GitHub stats](https://github-readme-stats.vercel.app/api?username=niurka77&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/niurka77/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niurka77&theme=algolia&layout=compact&hide=jupyter%20notebook)](https://github.com/niurka77/github-readme-stats)
 
 <br>
 
