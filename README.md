@@ -34,25 +34,27 @@ Sistema móvil desarrollado con **HTML, CSS, JavaScript y Capacitor** que permit
 - Control de ventas
 - Cálculo automático de comisiones
 - Panel para inversionistas
+<div align="center">
 
-🔹 **Carta Romántica Digital Interactiva**
-Proyecto web interactivo que incluye:
+### 🎮 Videojuego 3D Interactivo
+*Explora un mundo digital con sistema de misiones y entrenamiento. Desarrollado con JavaScript y renderizado en web.*
 
-- Animaciones
-- Puzzle de corazón
-- Galería de recuerdos
-- Música y efectos visuales
+<a href="https://niurka77.github.io/roblox/">
+  <img src="https://raw.githubusercontent.com/niurka77/roblox/main/roblox.png" width="800" alt="Banner Principal Juego">
+</a>
 
-🔹 **Videojuego 3D Interactivo**
-Explora un mundo digital con sistema de misiones y entrenamiento. Desarrollado con JavaScript y renderizado en web.
-- **¡Pruébalo aquí!:** [niurka77.github.io/roblox/](https://niurka77.github.io/roblox/)
-  <p align="center">
-  <a href="https://niurka77.github.io/roblox/">
-    <img src="https://raw.githubusercontent.com/niurka77/roblox/main/roblox.png" width="600" alt="Captura de mi juego">
-  </a>
-  <br>
-  <em>Click en la imagen para jugar mi proyecto 3D</em>
-</p>
+<br>
+
+| 📸 Capturas del Mundo | 🛠️ Interfaz y Misiones | 🏋️ Sistema de Entrenamiento |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152047.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152246.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152340.png" width="250"> |
+| <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152411.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152519.png" width="250"> | **[¡JUGAR AHORA!](https://niurka77.github.io/roblox/)** |
+
+**[Click aquí para abrir el juego en pantalla completa]**
+*(Recomendado usar navegador en PC)*
+
+</div>
+🔹 **Estoy aprendiendo**
 
 - Inteligencia Artificial aplicada al desarrollo
 - Arquitectura de software
