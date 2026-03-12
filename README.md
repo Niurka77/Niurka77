@@ -48,7 +48,7 @@ Explora un mundo digital con sistema de misiones y entrenamiento. Desarrollado c
 - **¡Pruébalo aquí!:** [niurka77.github.io/roblox/](https://niurka77.github.io/roblox/)
   <p align="center">
   <a href="https://niurka77.github.io/roblox/">
-    <img src="https://raw.githubusercontent.com/niurka77/roblox/main/juego.png" width="600" alt="Captura de mi juego">
+    <img src="https://raw.githubusercontent.com/niurka77/roblox/main/roblox.png" width="600" alt="Captura de mi juego">
   </a>
   <br>
   <em>Click en la imagen para jugar mi proyecto 3D</em>
