@@ -80,7 +80,53 @@ Juego protagonizado por una vaquita desarrollado con **JavaScript y HTML Canvas*
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux (Red Hat)"/> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/fluency/48/000000/github.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="NPM"/>
 
 <br>
+## 📂 Mis Repositorios
 
+<details open>
+  <summary><b>Click para ver mis proyectos principales</b></summary>
+  <br/>
+
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/niurka77/tyfin-notificador">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niurka77&repo=tyfin-notificador&theme=algolia" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/niurka77/asistente-voz-ia">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niurka77&repo=asistente-voz-ia&theme=algolia" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/niurka77/portafolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niurka77&repo=portafolio&theme=algolia" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/niurka77/tf-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niurka77&repo=tf-app&theme=algolia" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/niurka77/nova-salud-pos-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niurka77&repo=nova-salud-pos-system&theme=algolia" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/niurka77/ferromaterialeshyc.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niurka77&repo=ferromaterialeshyc.github.io&theme=algolia" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
 ## Estadísticas de GitHub 📈 :
 
 <br>
