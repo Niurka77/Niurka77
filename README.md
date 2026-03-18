@@ -1,69 +1,62 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,firebase,git,github,aws,tailwind,linux" />
 </p>
+
 <div align="center" width="50">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Niurka%20Guevara&fontSize=40&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7c3aed&height=200&section=header&text=Niurka%20Guevara&fontSize=40&fontColor=ffffff"/>
 </div>
+
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Niurka Maritza Guevara Marrujo</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/niurka77?style=social" />
+  <img src="https://img.shields.io/github/stars/niurka77?style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=niurka77.niurka77" />
+  <img src="https://komarev.com/ghpvc/?username=niurka77&color=blueviolet" alt="niurka77" />
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/niurka77?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/niurka77?style=social)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=niurka77.niurka77)
-<img src="https://komarev.com/ghpvc/?username=niurka77" alt="niurka77" />
+## Sobre Mí 👩‍💻
 
-## Sobre Mí :
-
-* 🏢 Soy **Egresada de la carrera de Ingeniería de Software con IA** en [SENATI](https://www.senati.edu.pe/)
-* 🏢 Fui **Desarrolladora de Software Full Stack** en T&F Asesoría y Consultoría Inmobiliaria E.I.R.L.
-* 🎓 **Profesional Técnica Titulada a Nombre de la Nación**. Graduada con honores como **Becaria de Beca 18 (PRONABEC)**.
-* 🏡 Vivo en **Chiclayo, Perú**
-* ⚡ **Datos curiosos:**  
-* Amo aprender nuevas tecnologías.
-* Me gusta enseñar idiomas.
-* Disfruto crear soluciones digitales que ayuden a las personas.
-* Implementación de soluciones técnologicas
+* 🎓 **Ingeniera de Software con IA** egresada de [SENATI](https://www.senati.edu.pe/).
+* 🏆 **Profesional Técnica Titulada** y graduada con honores como **Becaria de Beca 18 (PRONABEC)**.
+* 🏢 Ex **Desarrolladora Full Stack** en T&F Asesoría y Consultoría Inmobiliaria E.I.R.L.
+* 🏡 Basada en **Chiclayo, Perú**.
+* ⚡ **Datos curiosos:** * Me apasiona crear soluciones digitales que generen impacto real.
+  * Disfruto enseñar idiomas y aprender nuevas tecnologías constantemente.
+  * Especializada en ecosistemas digitales para el sector PropTech.
 
 <br>
+
 ## 🚀 Proyectos Destacados
 
-🔹 **Aplicación de Gestión para Asesores e Inversionistas**  
-Sistema móvil desarrollado con **HTML, CSS, JavaScript y Capacitor** que permite:
+🔹 **Sistema de Gestión PropTech (T&F)** Ecosistema digital desarrollado con **HTML, CSS, JS y Capacitor** para el sector inmobiliario:
+* Registro de asistencia con geolocalización.
+* Control de ventas y cálculo automático de comisiones.
+* Panel especializado para inversionistas.
 
-* Registro de asistencia con geolocalización
-* Control de ventas
-* Cálculo automático de comisiones
-* Panel para inversionistas
 <div align="center">
 
 ### 🎮 Videojuego 3D Interactivo
-*Explora un mundo digital con sistema de misiones y entrenamiento. Desarrollado con JavaScript y renderizado en web.*
+*Explora un mundo digital con sistema de misiones y entrenamiento. Desarrollado con JavaScript puro.*
 
 <a href="https://niurka77.github.io/roblox/">
-  <img src="https://raw.githubusercontent.com/niurka77/roblox/main/roblox.png" width="800" alt="Banner Principal Juego">
+  <img src="https://raw.githubusercontent.com/niurka77/roblox/main/roblox.png" width="800" alt="Banner Juego">
 </a>
+
+| 📸 Mundo | 🛠️ Misiones | 🏋️ Entrenamiento |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152047.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152246.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152340.png" width="250"> |
+
+**[👉 ¡JUGAR AHORA EN VIVO!](https://niurka77.github.io/roblox/)**
+
+</div>
 
 <br>
 
-| 📸 Capturas del Mundo | 🛠️ Interfaz y Misiones | 🏋️ Sistema de Entrenamiento |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152047.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152246.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152340.png" width="250"> |
-| <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152411.png" width="250"> | <img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152519.png" width="250"> | **[¡JUGAR AHORA!](https://niurka77.github.io/roblox/)** |
-
-**[Click aquí para abrir el juego en pantalla completa]**
-*(Recomendado usar navegador en PC)*
-
-</div>
-🔹 **Estoy aprendiendo**
-
-* Inteligencia Artificial aplicada al desarrollo
-* Arquitectura de software
-* Desarrollo de aplicaciones móviles
-* Cloud Computing
-## 📂 Mis Repositorios
+## 📂 Mis Repositorios Principales
 
 <details open>
-  <summary><b>Click para ver mis proyectos principales</b></summary>
+  <summary><b>Click para expandir mis proyectos</b></summary>
   <br/>
   <table align="center">
     <tr>
@@ -83,58 +76,44 @@ Sistema móvil desarrollado con **HTML, CSS, JavaScript y Capacitor** que permit
 
 <br>
 
-## Conéctate conmigo ☕ :
+## Conéctate conmigo ☕
 
-[![Instagram]([https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/tu_usuario_ig/](https://www.instagram.com/alguienqueexiste9?igsh=MWkxYmhieG5jbGQ2Zg==)) 
-[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/tu_usuario_fb) 
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/niurka-guevara-75b8a2353/) 
-[![Phone](https://img.icons8.com/fluency/48/000000/phone.png)](tel:906877812)
-[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:maritzaguevaramarrujo@gmail.com)
-
-<br>
-
-## Lo que manejo 🧑‍💻 :
+<p align="left">
+<a href="https://www.linkedin.com/in/niurka-maritza-guevara-marrujo-98b61a292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/alguienqueexiste9" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/18rTjsMbMw/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:maritzaguevaramarrujo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/51906877812" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 <br>
 
-### **Desarrollo Frontend:**
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript (ES6+)"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS"/>
+## Mi Stack Tecnológico 🛠️
 
-### **Desarrollo Backend:**
+### **Frontend & Mobile:**
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS"/> <img src="https://img.icons8.com/ios/48/ffffff/capacitor.png" title="Capacitor" style="background: #111; border-radius: 5px;"/>
+
+### **Backend & Lenguajes:**
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
 
 ### **Bases de Datos & Cloud:**
-<img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase (NoSQL)"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" title="Azure"/>
-
-### **Infraestructura, Herramientas y Metodologías:**
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux (Red Hat)"/> <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/> <img src="https://img.icons8.com/fluency/48/000000/github.png" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/npm.png" title="NPM"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
 
 <br>
 
-## Estadísticas de GitHub 📈 :
+## Estadísticas 📈
 
-<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=niurka77&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niurka77&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=niurka77&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niurka77&theme=algolia&layout=compact&hide=jupyter%20notebook" alt="Top Langs" />
+</p>
 
-[![Niurka77 GitHub stats](https://github-readme-stats.vercel.app/api?username=niurka77&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/niurka77/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niurka77&theme=algolia&layout=compact&hide=jupyter%20notebook)](https://github.com/niurka77/github-readme-stats)
-
-<br>
-
-## Gráfico de Actividad 📊 :
-
-<br>
-
-[![Actividad de Niurka](https://github-readme-activity-graph.vercel.app/graph?username=niurka77&bg_color=000&color=fff&line=00E676&point=fff&area=true&hide_border=true)](https://github.com/niurka77/github-readme-activity-graph)
 ---
 
 ✨ **“La tecnología es más poderosa cuando ayuda a las personas.”**
 
-Hecho con ❤️ por **Niurka Guevara**
----
-
-Créditos: [Niurka Guevara](https://github.com/niurka77)
-
-Última edición: 11/03/2026
+Hecho con ❤️ por **Niurka Guevara** | Chiclayo, Perú 🇵🇪
