@@ -85,7 +85,7 @@ Sistema móvil desarrollado con **HTML, CSS, JavaScript y Capacitor** que permit
 
 ## Conéctate conmigo ☕ :
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/tu_usuario_ig/) 
+[![Instagram]([https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/tu_usuario_ig/](https://www.instagram.com/alguienqueexiste9?igsh=MWkxYmhieG5jbGQ2Zg==)) 
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/tu_usuario_fb) 
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/niurka-guevara-75b8a2353/) 
 [![Phone](https://img.icons8.com/fluency/48/000000/phone.png)](tel:906877812)
