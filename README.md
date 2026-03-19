@@ -55,7 +55,7 @@ Sistema de gestión de inventarios y ventas diseñado para optimizar la operaci�
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20183805.png" width="250" alt="H&C 1"></td>
+   <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-12%20152519.png" width="250" alt="H&C 1"></td>
       <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185019.png" width="250" alt="H&C 2"></td>
       <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185106.png" width="250" alt="H&C 3"></td>
     </tr>
