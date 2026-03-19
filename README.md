@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hola, soy Niurka Maritza Guevara Marrujo
+  ¡Hola! Soy Niurka Maritza Guevara Marrujo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -32,24 +32,53 @@
 
 ---
 
-## 💼 Proyectos Destacados
-
-Estos son algunos de los proyectos que he desarrollado y que puedes ver en vivo desde mi [portafolio web](https://niurka77.github.io/portafolio/).
+## 🚀 Proyectos Destacados
 
 ### 🏡 **Ecosistema Inmobiliario T&F** (PropTech)
 Plataforma integral para el sector inmobiliario con dashboard administrativo, app para asesores (con geolocalización y comisiones) y portal para inversionistas.
 *   **Stack:** `Firebase`, `JavaScript`, `Tailwind CSS`, `Capacitor`.
 *   **Web:** [tyfinmobiliaria.com](https://tyfinmobiliaria.com/)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niurka77/portafolio/main/tyfinmobiliaria.com_.png" width="600" alt="T&F Dashboard">
+  <br>
+  <sub>Vista previa del dashboard administrativo de T&F</sub>
+</p>
+
+---
+
 ### 🏗️ **ERP para H&C Ferromateriales**
 Sistema de gestión de inventarios y ventas diseñado para optimizar la operación en el sector ferretero.
 *   **Stack:** `PHP`, `MySQL`, `Bootstrap`.
 *   **Web:** [Ver sitio](https://niurka77.github.io/H-CFerroMateriales.com/index.html)
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20183805.png" width="250" alt="H&C 1"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185019.png" width="250" alt="H&C 2"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185106.png" width="250" alt="H&C 3"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🎮 **Mundo Virtual Interactivo**
 Videojuego 3D con mecánicas de exploración, misiones y entrenamiento, desarrollado con tecnologías web puras.
 *   **Stack:** `JavaScript`, `WebGL` (Three.js).
 *   **Demo:** [Jugar ahora](https://niurka77.github.io/roblox/)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152047.png" width="200" alt="Mundo 1"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152246.png" width="200" alt="Mundo 2"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152340.png" width="200" alt="Mundo 3"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152411.png" width="200" alt="Mundo 4"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
