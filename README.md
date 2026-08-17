@@ -32,6 +32,20 @@
 
 ---
 
+## 🖥️ Mi Portafolio: Niurka OS
+
+Mi portafolio es un **escritorio interactivo explorable** (estilo Windows clásico): ventanas que se arrastran, menú de inicio, menú contextual, certificados verificables y hasta un sistema de sonido. Conócelo:
+
+<p align="center">
+  <a href="https://niurka77.github.io/portafolio/">
+    <img src="https://raw.githubusercontent.com/niurka77/portafolio/main/niurka77.github.io_portafolio_.png" width="680" alt="Niurka OS - Portafolio">
+  </a>
+  <br>
+  <sub>⬆️ Haz clic para abrir el escritorio Niurka OS</sub>
+</p>
+
+---
+
 ## 🚀 Proyectos Destacados
 
 ### 🏡 **Ecosistema Inmobiliario T&F** (PropTech)
@@ -39,11 +53,20 @@ Plataforma integral para el sector inmobiliario con dashboard administrativo, ap
 *   **Stack:** `Firebase`, `JavaScript`, `Tailwind CSS`, `Capacitor`.
 *   **Web:** [tyfinmobiliaria.com](https://tyfinmobiliaria.com/)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niurka77/portafolio/main/tyfinmobiliaria.com_.png" width="600" alt="T&F Dashboard">
-  <br>
-  <sub>Vista previa del dashboard administrativo de T&F</sub>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/tyfinmobiliaria.com_.png" width="290" alt="T&F Dashboard"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20191420.png" width="290" alt="T&F 2"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20191357.png" width="290" alt="T&F 3"></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20191342.png" width="290" alt="T&F 4"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20191308.png" width="290" alt="T&F 5"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20191231.png" width="290" alt="T&F 6"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -55,9 +78,58 @@ Sistema de gestión de inventarios y ventas diseñado para optimizar la operaci�
 <div align="center">
   <table>
     <tr>
-<td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185518.png" width="250" alt="H&C 1"></td>
-      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185019.png" width="250" alt="H&C 2"></td>
-      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185106.png" width="250" alt="H&C 3"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185518.png" width="230" alt="H&C 1"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185019.png" width="230" alt="H&C 2"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185106.png" width="230" alt="H&C 3"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-17%20185048.png" width="230" alt="H&C 4"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛍️ **Kiva Studio — Tienda virtual**
+E-commerce completo con catálogo, carrito y pagos para el emprendimiento Kiva Studio. Next.js en producción.
+*   **Stack:** `TypeScript`, `Next.js`, `Vercel`.
+*   **Web:** [kivastudio.vercel.app](https://kivastudio.vercel.app/) · [Código](https://github.com/Niurka77/kivastudio)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/kivastudio_1.png" width="300" alt="Kiva Studio 1"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/kivastudio_2.png" width="300" alt="Kiva Studio 2"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛒 **Don Karl — Tienda online**
+Tienda virtual responsiva con catálogo de productos, detalle y contacto directo.
+*   **Stack:** `JavaScript`, `HTML/CSS`, `Vercel`.
+*   **Web:** [don-karl-tienda.vercel.app](https://don-karl-tienda.vercel.app/) · [Código](https://github.com/Niurka77/don-karl-tienda)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/donkarl_1.png" width="300" alt="Don Karl 1"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/donkarl_2.png" width="300" alt="Don Karl 2"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚡ **Mecho — Aplicación web**
+Aplicación web construida en Svelte, lista para producción en Vercel.
+*   **Stack:** `Svelte`, `JavaScript`, `Vercel`.
+*   **Web:** [mecho-two.vercel.app](https://mecho-two.vercel.app/) · [Código](https://github.com/Niurka77/mecho)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/mecho_1.png" width="300" alt="Mecho 1"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/mecho_2.png" width="300" alt="Mecho 2"></td>
     </tr>
   </table>
 </div>
@@ -72,30 +144,58 @@ Videojuego 3D con mecánicas de exploración, misiones y entrenamiento, desarrol
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152047.png" width="200" alt="Mundo 1"></td>
-      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152246.png" width="200" alt="Mundo 2"></td>
-      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152340.png" width="200" alt="Mundo 3"></td>
-      <td><img src="https://raw.githubusercontent.com/niurka77/roblox/main/Captura%20de%20pantalla%202026-03-12%20152411.png" width="200" alt="Mundo 4"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-12%20152047.png" width="200" alt="Mundo 1"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-12%20152246.png" width="200" alt="Mundo 2"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-12%20152340.png" width="200" alt="Mundo 3"></td>
+      <td><img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-12%20152411.png" width="200" alt="Mundo 4"></td>
     </tr>
   </table>
 </div>
 
 ---
 
+### 🐦 **Bird Branches — Videojuego web**
+Un relajante rompecabezas donde ordenas pájaros por colores hasta completar las ramas del bosque. 100% jugable en el navegador.
+*   **Stack:** `JavaScript`, `Vite`.
+*   **Demo:** [Jugar ahora](https://bird-branches.vercel.app/)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niurka77/portafolio/main/Captura%20de%20pantalla%202026-03-12%20152129.png" width="480" alt="Bird Branches">
+</p>
+
+---
+
+## 🤖 IA & Visión por Computadora
+
+### 🔍 **Detección de daños en patrimonio histórico** (AI)
+Prototipo que detecta fallas en patrimonio histórico con YOLOv8, más una investigación en sistema de grietas.
+*   **Stack:** `YOLOv8`, `Python`, `OpenCV`, `Jupyter`.
+*   **Repos:** [Detector de daños](https://github.com/Niurka77/Heritage-Damage-Detector) · [Sistema de grietas](https://github.com/Niurka77/sistema-grietas) · [Fallas en patrimonio](https://github.com/Niurka77/deteccion-fallas-patrimonio)
+
+### 🎙️ **Asistentes de voz con IA**
+Asistente de voz en Python con procesamiento de lenguaje natural y síntesis de voz, más un asistente en JavaScript.
+*   **Stack:** `Python`, `NLP`, `JavaScript`, `Voz`.
+*   **Repos:** [Asistente de voz (Python)](https://github.com/Niurka77/asistente-voz-ia) · [Jarvis (JavaScript)](https://github.com/Niurka77/jarvis-project)
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,firebase,git,github,aws,tailwind,linux,bootstrap,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,mysql,firebase,git,github,aws,tailwind,linux,bootstrap,react,nodejs,svelte" />
 </p>
 
 ---
 
 ## 🏆 Certificaciones & Logros
 
-*   **Beca 18** - PRONABEC (Excelencia Académica)
-*   **Red Hat Certified System Administrator** (En progreso)
-*   **Cisco: Introducción a Ciberseguridad** e **IoT**
-*   **Oracle: Java Fundamentals**
+*   **Beca 18** - PRONABEC (Excelencia Académica) — 19 certificados de la plataforma
+*   **Título a la Nación** - SENATI (Ingeniería de Software con IA)
+*   **Red Hat System Administration I** - Red Hat (RH124)
+*   **Certificado Profesional Backend** y **Desarrollo con IA** - SENATI
+*   **Cisco:** Linux Unhatched, Get Connected, Introducción a C, **Introducción a IoT**
+*   **Oracle:** Java Fundamentals · **Netzun:** Excel Intermedio, Reclutamiento y selección
+*   **Inglés:** Suficiencia Básico Intensivo - SENATI
 *   **Idiomas:** Español (Nativo), Inglés (B1 - Intermedio), Japonés (A2 - Básico)
 
 ---
@@ -125,6 +225,7 @@ Actualmente estoy trabajando en proyectos desafiantes que integran **Agentes con
     <a href="https://wa.me/51906877812" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.instagram.com/alguienqueexiste9" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://www.facebook.com/share/18rTjsMbMw/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://github.com/niurka77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
   <p>Hecho con ❤️ y código limpio desde Chiclayo, Perú 🇵🇪</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00f5ff&height=120&section=footer"/>
