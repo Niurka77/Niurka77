@@ -27,17 +27,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,19,13&height=4&section=header" width="100%"/>
 
-## 🧠 Sobre Mí
+##  Sobre Mí
 
 <table>
   <tr>
     <td>
       <ul>
-        <li>🎓 <b>Ingeniera de Software con IA</b> — titulada con honores en <b>SENATI</b>.</li>
-        <li>🏆 Becaria de excelencia <b>Beca 18 (PRONABEC)</b>.</li>
-        <li>🏡 Diseño ecosistemas digitales para el sector <b>PropTech (Real Estate Tech)</b>.</li>
-        <li>📍 Ubicación: <b>Chiclayo, Perú</b>.</li>
-        <li>💡 Filosofía: software que no solo funciona, <b>transforma</b> procesos de negocio.</li>
+        <li> <b>Ingeniera de Software con IA</b>.</li>
+        <li> Becaria de excelencia <b>Beca 18 (PRONABEC)</b>.</li>
+        <li> Diseño ecosistemas digitales para el sector <b>PropTech (Real Estate Tech)</b>.</li>
+        <li> Ubicación: <b>Chiclayo, Perú</b>.</li>
+        <li> Filosofía: software que no solo funciona, <b>transforma</b> procesos de negocio.</li>
       </ul>
     </td>
     <td align="center">
@@ -57,16 +57,16 @@
     <img src="https://raw.githubusercontent.com/niurka77/portafolio/main/niurka77.github.io_portafolio_.png" width="720" alt="Niurka OS - Portafolio" />
   </a>
   <br/>
-  <sub>✨ Haz clic para abrir el escritorio Niurka OS</sub>
+  <sub> Haz clic para abrir el escritorio Niurka OS</sub>
 </p>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,19,13&height=4&section=header" width="100%"/>
 <br/>
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🏡 Ecosistema Inmobiliario T&F — *PropTech*
+###  Ecosistema Inmobiliario T&F — *PropTech*
 *Plataforma integral inmobiliaria: dashboard administrativo, app de asesores (geolocalización y comisiones) y portal para inversionistas.*
 
 | Stack | Link |
@@ -85,7 +85,7 @@
 
 <br/>
 
-### 🏗️ ERP para H&C Ferromateriales
+###  ERP para H&C Ferromateriales
 *Sistema de inventarios y ventas para el sector ferretero.*
 
 | Stack | Link |
@@ -100,7 +100,7 @@
 
 <br/>
 
-### 🛍️ Kiva Studio — Tienda virtual *E-Commerce*
+###  Kiva Studio — Tienda virtual *E-Commerce*
 *E-commerce completo con catálogo, carrito y pagos. Next.js en producción.*
 
 | Stack | Link |
@@ -114,7 +114,7 @@
 
 <br/>
 
-### 🛒 Don Karl — Tienda online
+###  Don Karl — Tienda online
 *Tienda virtual responsiva con catálogo y contacto directo.*
 
 | Stack | Link |
@@ -128,7 +128,7 @@
 
 <br/>
 
-### ⚡ Mecho — Aplicación web
+###  Mecho — Aplicación web
 *Aplicación Svelte lista para producción.*
 
 | Stack | Link |
@@ -142,7 +142,7 @@
 
 <br/>
 
-### 🎮 Mundo Virtual Interactivo
+###  Mundo Virtual Interactivo
 *Videojuego 3D con mecánicas de exploración, misiones y entrenamiento (tecnologías web puras).*
 
 | Stack | Link |
@@ -158,7 +158,7 @@
 
 <br/>
 
-### 🐦 Bird Branches — Videojuego web
+###  Bird Branches — Videojuego web
 *Rompecabezas relajante: ordena pájaros por colores completando las ramas del bosque.*
 
 | Stack | Link |
@@ -173,7 +173,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,19,13&height=4&section=header" width="100%"/>
 <br/>
 
-## 🤖 IA & Visión por Computadora
+##  IA & Visión por Computadora
 
 ### 🔍 Detección de daños en patrimonio histórico *(AI)*
 Prototipo con **YOLOv8** que detecta fallas en patrimonio histórico + investigación en sistema de grietas.
@@ -195,7 +195,7 @@ Asistente de voz en Python (NLP + síntesis) y un asistente en JavaScript.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,19,13&height=4&section=header" width="100%"/>
 <br/>
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,mysql,firebase,git,github,aws,tailwind,linux,bootstrap,react,nodejs,svelte" alt="Stack"/>
